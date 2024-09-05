@@ -2,3 +2,4 @@
 Aula Versionamento
 
 Adicionando configuração GITHUB
+Configurando git no ubuntu
